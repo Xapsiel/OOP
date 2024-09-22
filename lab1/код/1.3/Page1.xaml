@@ -1,0 +1,36 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:av="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="av" x:Class="_1._3.Page1"
+      Title="Page1" av:DesignHeight="500" av:DesignWidth="820">
+    <Grid Background="White">
+        <Grid HorizontalAlignment="Left" Height="78" Margin="10,25,0,0" VerticalAlignment="Top" Width="275">
+
+
+
+            <Label HorizontalContentAlignment="Center" Content="10" HorizontalAlignment="Left" Height="28" Margin="171,0,0,0" VerticalAlignment="Top" Width="104" Background="#FF28C6FC"/>
+            <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="28" Margin="171,0,0,0" VerticalAlignment="Top" Width="104"/>
+            <Label FontWeight="Bold" Content="FROM" HorizontalAlignment="Left" Height="28" VerticalAlignment="Top" HorizontalContentAlignment="Center" Width="138" Background="#FF28C6FC" RenderTransformOrigin="0.5,0.5"/>
+            <Label FontWeight="Bold" Content="TO" HorizontalAlignment="Left" Height="27" Margin="0,49,0,0" VerticalAlignment="Top" HorizontalContentAlignment="Center" Width="138" Background="#FF28C6FC"/>
+            <TextBox x:Name="toTB" HorizontalContentAlignment="Center" Height="28" Width="104" VerticalAlignment="Top" Text="2" TextWrapping="Wrap" Margin="171,50,0,0" HorizontalAlignment="Left"/>
+            <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="26" Margin="171,51,0,0" VerticalAlignment="Top" Width="104"/>
+
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="101" Margin="10,233,0,0" VerticalAlignment="Top" Width="780">
+
+
+            <TextBox x:Name="inputTB" FontSize="33" HorizontalAlignment="Left" TextWrapping="Wrap" Text="0" VerticalAlignment="Center" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"  Width="275" Height="100" TextChanged="TextBox_TextChanged"/>
+            <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="100" VerticalAlignment="Center" Width="275"/>
+            <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="101" Margin="505,0,0,0" VerticalAlignment="Center" Width="275"/>
+            <Button FontWeight="Bold" Content="Конвертировать" HorizontalAlignment="Center" Height="36" VerticalAlignment="Center" Width="114" Click="convertButton_Click" Background="#FF2658F3"/>
+            <Viewbox HorizontalAlignment="Left" VerticalAlignment="Center" Width="275" Height="100" Margin="505,0,0,0">
+                <Label x:Name="OutputLabel" Content="0" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center"/>
+            </Viewbox>
+        </Grid>
+
+
+        <Button Content="Перейти на следующую страницу" Click="GoToPage1_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="597,417,0,0" Height="34" Width="213"/>
+
+    </Grid>
+
+</Page>

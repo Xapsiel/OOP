@@ -1,0 +1,15 @@
+D:\2 курс\ООП\отчеты\lab1\lab1.2\bin\Debug\lab1.2.exe.config
+D:\2 курс\ООП\отчеты\lab1\lab1.2\bin\Debug\lab1.2.exe
+D:\2 курс\ООП\отчеты\lab1\lab1.2\bin\Debug\lab1.2.pdb
+D:\2 курс\ООП\отчеты\lab1\lab1.2\obj\Debug\lab1.2.csproj.AssemblyReference.cache
+D:\2 курс\ООП\отчеты\lab1\lab1.2\obj\Debug\MainWindow.g.cs
+D:\2 курс\ООП\отчеты\lab1\lab1.2\obj\Debug\App.g.cs
+D:\2 курс\ООП\отчеты\lab1\lab1.2\obj\Debug\lab1.2_MarkupCompile.cache
+D:\2 курс\ООП\отчеты\lab1\lab1.2\obj\Debug\lab1.2_MarkupCompile.lref
+D:\2 курс\ООП\отчеты\lab1\lab1.2\obj\Debug\MainWindow.baml
+D:\2 курс\ООП\отчеты\lab1\lab1.2\obj\Debug\lab1.2.g.resources
+D:\2 курс\ООП\отчеты\lab1\lab1.2\obj\Debug\lab1._2.Properties.Resources.resources
+D:\2 курс\ООП\отчеты\lab1\lab1.2\obj\Debug\lab1.2.csproj.GenerateResource.cache
+D:\2 курс\ООП\отчеты\lab1\lab1.2\obj\Debug\lab1.2.csproj.CoreCompileInputs.cache
+D:\2 курс\ООП\отчеты\lab1\lab1.2\obj\Debug\lab1.2.exe
+D:\2 курс\ООП\отчеты\lab1\lab1.2\obj\Debug\lab1.2.pdb
